@@ -2,7 +2,12 @@
 technology I've worked on
 
 ## ships
-- Nov 11, 2019 [Introducing Network Traversal Service](https://www.twilio.com/blog/2014/11/introducing-network-traversal-service-nt.html)
+- Aug 6, 2019 [Introducing Media Streams](https://www.twilio.com/blog/media-streams-public-beta)
+- May 18, 2017 [Programmable Video Group Rooms: More Participants, Video Recording, and Pricing for Scale](https://www.twilio.com/blog/2017/05/announcing-programmable-video-group-rooms.html)
+- Sep 20, 2016 [Announcing Voice Insights for WebRTC](https://www.twilio.com/blog/2016/09/announcing-voice-insights.html)
+- Sep 20, 2016 [Twilio to Acquire Kurento Technology](https://www.twilio.com/press/releases/twilio-to-acquire-kurento-webrtc-media-server-technology)
+- Apr 14, 2015 [Twilio Announces Video](https://www.twilio.com/press/releases/twilio-announces-video)
+- Nov 11, 2014 [Introducing Network Traversal Service](https://www.twilio.com/blog/2014/11/introducing-network-traversal-service-nt.html)
 - Jul 7, 2011 [New Video Chat Feature for Facebook](https://www.youtube.com/watch?v=rGNNOprYsNg)
 - Jul 6, 2011 [Facebook Launches Skype-Powered Video Calling](https://techcrunch.com/2011/07/06/facebook-launches-skype-powered-video-calling/)
 
