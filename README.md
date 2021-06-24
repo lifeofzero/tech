@@ -3,6 +3,7 @@ technology I've worked on
 
 ## ships
 - Aug 6, 2019 [Introducing Media Streams](https://www.twilio.com/blog/media-streams-public-beta)
+- May 18, 2017 [Twilio Announces the General Availability of Twilio Client JavaScript SDK 1.4](https://www.twilio.com/blog/2017/05/twilio-announces-the-general-availability-of-twilio-client-javascript-sdk-1-4.html)
 - May 18, 2017 [Programmable Video Group Rooms: More Participants, Video Recording, and Pricing for Scale](https://www.twilio.com/blog/2017/05/announcing-programmable-video-group-rooms.html)
 - Sep 20, 2016 [Announcing Voice Insights for WebRTC](https://www.twilio.com/blog/2016/09/announcing-voice-insights.html)
 - Sep 20, 2016 [Twilio to Acquire Kurento Technology](https://www.twilio.com/press/releases/twilio-to-acquire-kurento-webrtc-media-server-technology)
