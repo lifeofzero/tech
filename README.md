@@ -8,5 +8,5 @@ technology I've worked on
 - Aug 20, 2013 [Handling of a Communication Session](https://uspto.report/patent/grant/9,021,105)
 
 ## ships
-- 
+- Jul 7, 2011 [New Video Chat Feature for Facebook](https://www.youtube.com/watch?v=rGNNOprYsNg)
 - Jul 6, 2011 [Facebook Launches Skype-Powered Video Calling](https://techcrunch.com/2011/07/06/facebook-launches-skype-powered-video-calling/)
